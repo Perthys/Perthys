@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fucking your mom.
 - 📫 How to reach me at ur mom's house.
 
-[![Perth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perthys)](https://github.com/Perthys/github-readme-stats)
+![Perth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perthys&show_icons=true&theme=radical)
 
 <!---
 Perthys/Perthys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
