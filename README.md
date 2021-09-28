@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Perthys
-- 👀 I’m interested in your alive mom.
-- 🌱 I’m currently learning how to fuck your alive mom.
-- 💞️ I’m looking to collaborate on fucking your alive mom.
-- 📫 How to reach me at ur alive mom's house.
+- 👀 I’m interested in your living mom.
+- 🌱 I’m currently learning how to fuck your living mom.
+- 💞️ I’m looking to collaborate on fucking your living mom.
+- 📫 How to reach me at ur living mom's house.
 
-- Changed to "Alive" cause someone's mom died
+- Changed to "Living" cause someone's mom died
+
+- My discord is discord.gg/psu
 
 ![Perth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perthys&show_icons=true&theme=radical)
 
