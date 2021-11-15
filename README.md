@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Perthys
-- 👀 I’m interested in your living mom.
-- 🌱 I’m currently learning how to fuck your living mom.
-- 💞️ I’m looking to collaborate on fucking your living mom.
-- 📫 How to reach me at ur living mom's house.
 
 - Changed to "Living" cause someone's mom died
 
