@@ -2,8 +2,6 @@
 
 - Changed to "Living" cause someone's mom died
 
-- My discord is discord.gg/psu
-
 ![Perth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perthys&show_icons=true&theme=radical)
 
 <!---
