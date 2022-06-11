@@ -1,5 +1,5 @@
 
-![Perth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perthys&show_icons=true&theme=radical)
+![Perth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perthys&show_icons=true&theme=gotham)
 \
 ![](https://komarev.com/ghpvc/?username=Perthys&color=green)
 <!---
