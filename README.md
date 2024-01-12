@@ -8,7 +8,7 @@
 ### Professional Summary
 An experienced and innovative Roblox Developer with 8 years of experience. Skilled in game development, programming, AI implementation, and quality assurance, with a unique background in security and exploitation. Demonstrated ability in creating engaging gaming experiences, with a strong foundation in both project management and technical development.
 ### Technical Skills
-- **Languages:** Lua, Python, JavaScript, TypeScript, Rust
+- **Languages:** Lua, LuaU, Python, JavaScript, TypeScript, Rust
 - **Tools & Technologies:** Roblox Studio, Git, VSC, VS, GitHub, AI & Machine Learning Tools, Figma
 - **Other Skills:** Game Design, Project Management, Quality Assurance, Security Analysis, DevOps, Building, 3D Modeling, UI/UX,
 ### Professional Experience
