@@ -1,13 +1,11 @@
 # Resume
-
-## Perthyz | Jack Tan
-**Roblox Developer & Full Stack Programmer**
+**Roblox Developer & Programmer**
 ### Contact Information
 - Twitter: [Perthecther](https://twitter.com/Perthecther)
 - GitHub: [Perthys](https://github.com/Perthys)
 - Talent Hub: [Perthyz Profile](https://talent.roblox.com/creators/327423121)
 - Roblox: [Perthyz](https://www.roblox.com/users/327423121/profile)
-- Discord: [Web Protocol](discord://-/users/761654159095103499) | ``Perthys#0``
+- Discord: ``Perthys#0``
 ### Professional Summary
 An experienced and innovative Roblox Developer with 8 years of experience. Skilled in game development, Lua programming, AI implementation, and quality assurance, with a unique background in security and exploitation. Demonstrated ability in creating engaging gaming experiences, with a strong foundation in both project management and technical development.
 ### Technical Skills
