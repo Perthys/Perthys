@@ -12,6 +12,7 @@ An experienced and innovative Roblox Developer with 8 years of experience. Skill
 - **Tools & Technologies:** Roblox Studio, Git, VSC, VS, GitHub, AI & Machine Learning Tools, Figma
 - **Other Skills:** Game Design, Project Management, Quality Assurance, Security Analysis, DevOps, Building, 3D Modeling, UI/UX,
 ### Professional Experience
+\
 **Lead QA** 
 (Various Roblox Games)  
 *Jan 2016 - August 2018*
