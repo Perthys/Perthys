@@ -14,7 +14,7 @@ An experienced game developer with 8 years of experience. Skilled in game develo
 ### Professional Experience
 \
 **Lead QA** 
-(Various Roblox Games)  
+(Various Games)  
 *Jan 2016 - August 2018*
 - Provided quality assurance for games like ["RECOIL"](https://www.roblox.com/games/4651779470/RECOIL) and ["Rolling Thunder"](https://www.roblox.com/games/7686955826/Rolling-Thunder-PVE).
 
@@ -23,7 +23,7 @@ PSU Obfuscator
 *Jan 2019 - April 2020*
 - Developed and managed a Lua obfuscator for versions 5.1 - 5.4, exited + acquired in 2022. [GitHub Link](https://github.com/psuDevelopment)
 
-**Roblox Game Developer**  
+**Game Developer**  
 (Jandel Games | Splitting Point Studios)  
 *Jan 2020 - Present*
 - Developed popular Roblox games such as ["STEEP STEPS"](https://www.roblox.com/games/11606818992/STEEP-STEPS) and ["Bike of Hell"](https://www.roblox.com/games/14943334555/Bike-of-Hell-UPD10).
