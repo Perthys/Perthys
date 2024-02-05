@@ -15,7 +15,7 @@ An experienced game developer with 8 years of experience. Skilled in game develo
 \
 **Lead QA** 
 (Various Games)  
-*Jan 2016 - August 2018*
+*Jan 2017 - August 2019*
 - Provided quality assurance for games like ["RECOIL"](https://www.roblox.com/games/4651779470/RECOIL) and ["Rolling Thunder"](https://www.roblox.com/games/7686955826/Rolling-Thunder-PVE).
 
 **Founder & Developer**
