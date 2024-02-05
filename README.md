@@ -31,7 +31,6 @@ PSU Obfuscator
 - Developed ["Pixel Piece"](https://www.roblox.com/groups/6537733/Pixel-Piece#!/about).
   
 ### Projects, Contributions and OSS
-- **LuaOpenAI:** An open-source project integrating AI functionalities with Lua. [GitHub Link](https://github.com/Perthys/LuaOpenAI)
 - **Chalk.luau:** An project that makes rich text styling extremely intuitive and easy. [GitHub Link](https://github.com/Perthys/chalk)
 - **Random Projects:**
   - Neural network-based Projectile Dodging system: [Gyazo Link](https://gyazo.com/b46aa7d820e6503dd97148ce80f18301)
