@@ -52,6 +52,7 @@ PSU Obfuscator
   - Lobby Selector UI: [Gyazo Link](https://gyazo.com/604307096d048768d79e5b5b2104313b)
   - Overwatch Inspired UI: [Gyazo Link](https://gyazo.com/0c8eb17c5f6d84276aef984abe45355d)
   - Inventory / Shop UI: [Gyazo Link](https://gyazo.com/64c02eaf88975ada564be9a6be797930)
+  - Car Shop UI: [Gyazo Link](https://gyazo.com/5353d1d9a8ba78c803b94db42735c0fd)
 - **Modelling / Building**
   - Possiedon Hallway: [Gyazo Link](https://gyazo.com/9bc7dba64984b410fc60dd753c081a1f)
   - Nimitz Class Aircraft Carrier: [Gyazo Link](https://gyazo.com/a97314aaeeeaa85582f1d0c0e20de199)
