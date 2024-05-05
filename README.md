@@ -30,7 +30,7 @@ PSU Obfuscator
 - Developed popular Roblox games such as ["STEEP STEPS"](https://www.roblox.com/games/11606818992/STEEP-STEPS) and ["Bike of Hell"](https://www.roblox.com/games/14943334555/Bike-of-Hell-UPD10).
 - Developed ["Deadly Decisions"](https://www.roblox.com/games/12434172731/Deadly-Decisions) and ["Death Sandbox"](https://www.roblox.com/games/10627835972/Death-Sandbox-WINTER-UPDATE).
 - Developed ["Pixel Piece"](https://www.roblox.com/groups/6537733/Pixel-Piece#!/about).
-for a full list of games click ["here"](https://jandel-rblx.github.io/roblox-game-stats/)
+- for a full list of games click ["here"](https://jandel-rblx.github.io/roblox-game-stats/)
   
 ### Projects, Contributions and OSS
 - **Chalk.luau:** An project that makes rich text styling extremely intuitive and easy. [GitHub Link](https://github.com/Perthys/chalk)
