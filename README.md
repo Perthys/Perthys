@@ -1,3 +1,4 @@
+while i work on a resumse site i make it my read me for now
 **Game Developer & Programmer**
 ### Contact Information
 - Twitter: [Perthecther](https://twitter.com/Perthecther)
