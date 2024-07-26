@@ -29,7 +29,9 @@ PSU Obfuscator
 (Jandel Games | Splitting Point Studios)  
 *Jan 2022 - Present*
 - Developed a dusty trip ["a dusty trip"](https://www.roblox.com/games/16389395869/a-dusty-trip-ROCKET#!/game-instances)
-- Developed popular Roblox games such as ["STEEP STEPS"](https://www.roblox.com/games/11606818992/STEEP-STEPS) and ["Bike of Hell"](https://www.roblox.com/games/14943334555/Bike-of-Hell-UPD10).
+- Developed Tycoon RNG ["Tycoon RNG"](https://www.roblox.com/games/17601705136/Tycoon-RNG)
+- Developed ["STEEP STEPS"](https://www.roblox.com/games/11606818992/STEEP-STEPS)
+- Developed ["Bike of Hell"](https://www.roblox.com/games/14943334555/Bike-of-Hell-UPD10).
 - Developed ["Deadly Decisions"](https://www.roblox.com/games/12434172731/Deadly-Decisions) and ["Death Sandbox"](https://www.roblox.com/games/10627835972/Death-Sandbox-WINTER-UPDATE).
 - Developed ["Pixel Piece"](https://www.roblox.com/groups/6537733/Pixel-Piece#!/about).
 - for a full list of games click [here](https://jandel-rblx.github.io/roblox-game-stats/)
