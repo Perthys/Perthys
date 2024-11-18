@@ -44,7 +44,7 @@ PSU Obfuscator
 - **Chalk.luau:** An project that makes rich text styling extremely intuitive and easy. [GitHub Link](https://github.com/Perthys/chalk)
 - **Random Projects:**
   - Neural network-based Projectile Dodging system: [Gyazo Link](https://gyazo.com/b46aa7d820e6503dd97148ce80f18301)
-  - Custom A* Implementation: [Gyazo Link](https://gyazo.com/e9fc6f3acb5612f1ca254f627ab97520), [Gyazo Link](https://gyazo.com/5a49b217e9c2182048e5cb332f8d58a6), [Gyazo Link](https://gyazo.com/c135daf71c9660831e056185fde1ebb1)
+  - NavMesh Generation for a self driving car (exploit): [Gyazo Link](https://gyazo.com/e9fc6f3acb5612f1ca254f627ab97520), [Gyazo Link](https://gyazo.com/5a49b217e9c2182048e5cb332f8d58a6), [Gyazo Link](https://gyazo.com/c135daf71c9660831e056185fde1ebb1)
   - Voxel Terrain Generation: [Gyazo Link](https://gyazo.com/963811224435fe4a5b564a1fab912201)
   - Fingerprint Users: [Gyazo Link](https://gyazo.com/390ec9f56d4f0511b5964c22c6241c6c)
   - Experimental FPS System: [Gyazo Link](https://gyazo.com/5bcb97fe1d06c2854ec46e25b3deb014), [Gyazo Link](https://gyazo.com/e0ad93a9c416570e8f61a76e56e8182a)
