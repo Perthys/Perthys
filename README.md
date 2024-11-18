@@ -1,4 +1,4 @@
-while i work on a resumse site i make it my read me for now
+while i work on a resumse site i make it my read me for now (it is alot of glaze)
 \
 **Game Developer & Programmer**
 ### Contact Information
