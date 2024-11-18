@@ -18,17 +18,6 @@ An experienced game developer with 8 years of experience. Skilled in game develo
 - x2 **RIA** Winner
 
 ### Professional Experience
-\
-**Lead QA** 
-(Various Games)  
-*Jan 2017 - August 2019*
-- Provided quality assurance for games like ["RECOIL"](https://www.roblox.com/games/4651779470/RECOIL) and ["Rolling Thunder"](https://www.roblox.com/games/7686955826/Rolling-Thunder-PVE).
-
-**Founder & Developer**
-PSU Obfuscator  
-*Jan 2019 - April 2022*
-- Developed and managed a Lua obfuscator for versions 5.1 - 5.4, exited + acquired in 2022. [GitHub Link](https://github.com/psuDevelopment)
-
 **Game Developer**  
 (Jandel Games | Splitting Point Studios)  
 *Jan 2022 - Present*
@@ -39,12 +28,22 @@ PSU Obfuscator
 - Developed ["Deadly Decisions"](https://www.roblox.com/games/12434172731/Deadly-Decisions) and ["Death Sandbox"](https://www.roblox.com/games/10627835972/Death-Sandbox-WINTER-UPDATE).
 - Developed ["Pixel Piece"](https://www.roblox.com/groups/6537733/Pixel-Piece#!/about).
 - for a full list of games click [here](https://jandel-rblx.github.io/roblox-game-stats/)
+
+**Founder & Developer**
+PSU Obfuscator  
+*Jan 2019 - April 2022*
+- Developed and managed a Lua obfuscator for versions 5.1 - 5.4, exited + acquired in 2022. [GitHub Link](https://github.com/psuDevelopment)
+\
+**Lead QA** 
+(Various Games)  
+*Jan 2017 - August 2019*
+- Provided quality assurance for games like ["RECOIL"](https://www.roblox.com/games/4651779470/RECOIL) and ["Rolling Thunder"](https://www.roblox.com/games/7686955826/Rolling-Thunder-PVE).
   
 ### Projects, Contributions and OSS
 - **Chalk.luau:** An project that makes rich text styling extremely intuitive and easy. [GitHub Link](https://github.com/Perthys/chalk)
 - **Random Projects:**
   - Neural network-based Projectile Dodging system: [Gyazo Link](https://gyazo.com/b46aa7d820e6503dd97148ce80f18301)
-  - NavMesh Generation for a self driving car (exploit): [Gyazo Link](https://gyazo.com/e9fc6f3acb5612f1ca254f627ab97520), [Gyazo Link](https://gyazo.com/5a49b217e9c2182048e5cb332f8d58a6), [Gyazo Link](https://gyazo.com/c135daf71c9660831e056185fde1ebb1)
+  - NavMesh Generation for a self driving car: [Gyazo Link](https://gyazo.com/e9fc6f3acb5612f1ca254f627ab97520), [Gyazo Link](https://gyazo.com/5a49b217e9c2182048e5cb332f8d58a6), [Gyazo Link](https://gyazo.com/c135daf71c9660831e056185fde1ebb1)
   - Voxel Terrain Generation: [Gyazo Link](https://gyazo.com/963811224435fe4a5b564a1fab912201)
   - Fingerprint Users: [Gyazo Link](https://gyazo.com/390ec9f56d4f0511b5964c22c6241c6c)
   - Experimental FPS System: [Gyazo Link](https://gyazo.com/5bcb97fe1d06c2854ec46e25b3deb014), [Gyazo Link](https://gyazo.com/e0ad93a9c416570e8f61a76e56e8182a)
