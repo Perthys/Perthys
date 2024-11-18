@@ -33,6 +33,7 @@ An experienced game developer with 8 years of experience. Skilled in game develo
 PSU Obfuscator  
 *Jan 2019 - April 2022*
 - Developed and managed a Lua obfuscator for versions 5.1 - 5.4, exited + acquired in 2022. [GitHub Link](https://github.com/psuDevelopment)
+
 \
 **Lead QA** 
 (Various Games)  
