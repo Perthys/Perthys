@@ -43,7 +43,8 @@ PSU Obfuscator
 ### Projects, Contributions and OSS
 - **Chalk.luau:** An project that makes rich text styling extremely intuitive and easy. [GitHub Link](https://github.com/Perthys/chalk)
 - **Random Projects:**
-  - Plane System: [Gyazo Link](https://gyazo.com/b288d96ab4710ee8e966dbf14521f857)
+  - Plane System: [Gyazo Link](https://gyazo.com/b288d96ab4710ee8e966dbf14521f857) (please contact me for higher quality footage)
+  - Helicopter System + Lock On System: [Gyazo Link](https://gyazo.com/ccdb4bfa5352d96ce8a3d648fa6b69c6) 
   - Neural network-based Projectile Dodging system: [Gyazo Link](https://gyazo.com/b46aa7d820e6503dd97148ce80f18301)
   - NavMesh Generation + pathfinding for a self driving car (exploiter): [Gyazo Link](https://gyazo.com/e9fc6f3acb5612f1ca254f627ab97520), [Gyazo Link](https://gyazo.com/5a49b217e9c2182048e5cb332f8d58a6), [Gyazo Link](https://gyazo.com/c135daf71c9660831e056185fde1ebb1)
   - Voxel Terrain Generation: [Gyazo Link](https://gyazo.com/963811224435fe4a5b564a1fab912201)
