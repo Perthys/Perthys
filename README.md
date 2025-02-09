@@ -68,6 +68,7 @@ PSU Obfuscator
   - Inventory / Shop UI: [Gyazo Link](https://gyazo.com/64c02eaf88975ada564be9a6be797930)
   - Car Shop UI: [Gyazo Link](https://gyazo.com/5353d1d9a8ba78c803b94db42735c0fd)
   - Garage UI [Gyazo Link](https://gyazo.com/a25ad00083680c2f041e8d4ddfe42556)
+  - Crate UI [DiscordLink](https://cdn.discordapp.com/attachments/1017843587154726950/1337937359353806858/image.png?ex=67a942c4&is=67a7f144&hm=f923da2367495a3b8ffb041e5fc154c0390f42a33b65033dcc93bf99317f2eaa&)
 - **Modelling / Building**
   - Possiedon Hallway: [Gyazo Link](https://gyazo.com/9bc7dba64984b410fc60dd753c081a1f)
   - Nimitz Class Aircraft Carrier: [Gyazo Link](https://gyazo.com/a97314aaeeeaa85582f1d0c0e20de199)
