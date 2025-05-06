@@ -21,6 +21,7 @@ An experienced game developer with 8 years of experience. Skilled in game develo
 **Game Developer**  
 (Jandel Games | Splitting Point Studios)  
 *Jan 2022 - Present*
+- Developed Grow a Garden ["Grow a Garden"](https://www.roblox.com/games/126884695634066/Grow-a-Garden)
 - Developed a dusty trip ["a dusty trip"](https://www.roblox.com/games/16389395869/a-dusty-trip-ROCKET#!/game-instances)
 - Developed Tycoon RNG ["Tycoon RNG"](https://www.roblox.com/games/17601705136/Tycoon-RNG)
 - Developed ["STEEP STEPS"](https://www.roblox.com/games/11606818992/STEEP-STEPS)
