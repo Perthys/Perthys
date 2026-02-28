@@ -5,8 +5,7 @@
 ---
 
 ### Connect
-- **x**: [@Perthecther](https://x.com/Perthecther)
-- **GitHub**: [Perthys](https://github.com/Perthys)
+- **X**: [<image-card alt="X" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/x.svg" ></image-card>](https://twitter.com/Perthecther)
 - **Discord**: `Perthys#0`
 
 ---
