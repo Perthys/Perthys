@@ -2,7 +2,7 @@
 
 #### A Software Engineer & Game Developer
 
-Builder at [Splitting-Point](https://splittingpoint.com/);<br>
+Builder at [Splitting-Point](https://splittingpoint.com/): <br>
 
 - ⚙️ Languages I like: `.rs`, `.ts`, `.js`, `.luau`
 - 🔧 Projects: [chalk.luau](https://github.com/Perthys/chalk), [PSU-Obfuscator](https://github.com/psuDevelopment), [xml-parser](https://github.com/Perthys/XMLParser)
